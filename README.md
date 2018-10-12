@@ -5,19 +5,19 @@ A programming language, thats fun to write, is built from scratch to get compile
 
 ## Roadmap
 
-compilable, 
+#### compilable, 
 
-interpretable, 
+#### interpretable, 
 
-restictive (filesystem read/file system write/other access is gained explicitly)
+#### restictive (filesystem read/file system write/other access is gained explicitly)
 
-type inference for everything including return types, so functions do not need to declare return types, I really really dont want to do that !
+#### type inference for everything including return types, so functions do not need to declare return types, I really really dont want to do that !
 
-no var/const/let or anything
+#### no var/const/let or anything
 
-maybe -
+#### maybe -
 
-in parameter special keywords, thatis
+#### in parameter special keywords, thatis
 
 instead of
 ```
@@ -29,4 +29,4 @@ we get
 open("abc.xyz", wb)
 ```
 
-directly grasped number types (Int32, or Float64, or otherwise), otherwise
+#### directly grasped number types (Int32, or Float64, or otherwise), otherwise
