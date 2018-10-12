@@ -11,6 +11,12 @@ A programming language, thats fun to write, is built from scratch to get compile
 
 #### restictive (filesystem read/file system write/other access is gained explicitly)
 
+#### single page documented
+
+#### single page tested
+
+#### understandable at a glance
+
 #### type inference for everything including return types, so functions do not need to declare return types, I really really dont want to do that !
 
 #### no var/const/let or anything
